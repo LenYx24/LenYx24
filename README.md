@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @LenYx24
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @LenYx24, a computer science student
+- 👀 I’m interested in bleeding edge tech, and all sorts of stuff related to IT
+- 🌱 I’m currently learning the t3 stack and aws
 
-<!---
-LenYx24/LenYx24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-I'm interested in IT.
-I'm learning web development.
+- 📫 Email me at: fokilenard@gmail.com
