@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @LenYx24, a computer science student
-- 👀 I’m interested in bleeding edge tech, and all sorts of stuff related to IT
-- 🌱 I’m currently learning the t3 stack and aws
-
-- 📫 Email me at: fokilenard@gmail.com
+- 👋 Hi, I’m @LenYx24, or just LenY, a computer science student enrolled at BME university
+- 👀 I’m interested in a lot of fields related to IT, like web development, AI, game development and much more...
+- 🌱 I like to experiment in bleeding edge tech and play around with it, currently I was checking out the t3 stack and Next.js 13.
